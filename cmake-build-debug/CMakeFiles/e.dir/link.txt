@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/e.dir/main.cpp.o CMakeFiles/e.dir/encstrset.cc.o  -o e 

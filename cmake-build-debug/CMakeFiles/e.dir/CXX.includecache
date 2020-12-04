@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jan-dev/cpp/CLionProjects/JNPzad2/encstrset.h
+cstdlib
+-
+iostream
+-
+stdbool.h
+-
+stdlib.h
+-
+
+/home/jan-dev/cpp/CLionProjects/JNPzad2/main.cpp
+iostream
+-
+cassert
+-
+encstrset.h
+/home/jan-dev/cpp/CLionProjects/JNPzad2/encstrset.h
+
